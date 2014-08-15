@@ -11,7 +11,7 @@ Modified files:<br>
 -DAC_Config_Units.sqf<br>
 <br><br>
 
-Included Mod Units:<br>
+Included Mod Units so far:<br>
 
-@UNSUNG 2.6 for Arma 2<br>
+@UNSUNG 2.6 for Arma 2 (OPFOR only for now)<br>
 
