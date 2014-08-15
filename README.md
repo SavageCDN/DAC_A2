@@ -13,5 +13,9 @@ Modified files:<br>
 
 Included Mod Units so far:<br>
 
-@UNSUNG 2.6 for Arma 2 (OPFOR only for now)<br>
+@ACE (incomplete)<br>
+@IF (Iron Front)<br>
+@Lingor_Units<br>
+@UNSUNG 2.6 (OPFOR only)<br>
+
 
